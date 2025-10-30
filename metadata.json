@@ -1,0 +1,7 @@
+{
+  "name": "AI Prompt PPTX Maker",
+  "description": "An AI-powered application that generates a complete presentation with titles, content, and AI-generated images from a single user prompt.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
