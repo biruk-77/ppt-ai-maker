@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://pptmakerai-seven.vercel.app">
-    <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="AI-Powered Presentation Maker Banner" width="100%"/>
-  </a>
+  
 
   <br/>
 
@@ -131,9 +129,7 @@ Copy the code block below. It is very long.
 code
 Markdown
 <div align="center">
-  <a href="https://pptmakerai-seven.vercel.app">
-    <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="PPT AI Maker Banner" width="100%" />
-  </a>
+  
 
   <br />
 
