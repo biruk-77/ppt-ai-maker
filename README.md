@@ -415,6 +415,6 @@ Vercel for hosting and deployment.
 Google Developers for the Gemini API.
 The Open Source Community for tools like pptxgenjs and react-dropzone.
 <div align="center">
-<p>Built with ❤️ by <a href="https://github.com/your-username">Your Name</a></p>
+<p>Built with ❤️ by <a href="https://github.com/biruk-77">biruk-77</a></p>
 <p>© 2025 PPT AI Maker. All rights reserved.</p>
 </div>
